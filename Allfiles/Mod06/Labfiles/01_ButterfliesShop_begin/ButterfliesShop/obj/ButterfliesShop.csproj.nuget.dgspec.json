@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dabina2018\\Downloads\\Mod06_completed\\Mod06\\Labfiles\\01_ButterfliesShop_begin\\ButterfliesShop\\ButterfliesShop.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dabina2018\\Downloads\\Mod06_completed\\Mod06\\Labfiles\\01_ButterfliesShop_begin\\ButterfliesShop\\ButterfliesShop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dabina2018\\Downloads\\Mod06_completed\\Mod06\\Labfiles\\01_ButterfliesShop_begin\\ButterfliesShop\\ButterfliesShop.csproj",
+        "projectName": "ButterfliesShop",
+        "projectPath": "C:\\Users\\dabina2018\\Downloads\\Mod06_completed\\Mod06\\Labfiles\\01_ButterfliesShop_begin\\ButterfliesShop\\ButterfliesShop.csproj",
+        "packagesPath": "C:\\Users\\dabina2018\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dabina2018\\Downloads\\Mod06_completed\\Mod06\\Labfiles\\01_ButterfliesShop_begin\\ButterfliesShop\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dabina2018\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
